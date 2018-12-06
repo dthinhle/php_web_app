@@ -1,0 +1,63 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="project_IoT.com" resolutions="1x" timestamp="1543386890855">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4144380127" ref="index"/>
+    <file name="nomq_index.css" crc="374030744" ref="index"/>
+    <file name="settings.css" crc="4017785349" ref="settings"/>
+    <file name="nomq_settings.css" crc="4099109268" ref="settings"/>
+    <file name="widgets.css" crc="105307758" ref="widgets"/>
+    <file name="nomq_widgets.css" crc="3834340322" ref="widgets"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:widgets:settings"/>
+    <file name="museutils.js" crc="4216313831" ref="index:widgets:settings"/>
+    <file name="whatinput.js" crc="86476730" ref="index:widgets:settings"/>
+    <file name="museconfig.js" crc="474374037" ref="index:widgets:settings"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:widgets:settings"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:widgets:settings"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:widgets:settings"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="index:widgets:settings"/>
+    <file name="require.js" crc="3951022091" ref="index:widgets:settings"/>
+  </folder>
+  <folder name="images">
+    <file name="agriculture-bright-clouds-440731.jpg" crc="3884438212" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="thermometer.svg" crc="4031485277" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="thermometer_poster_.png" crc="129038082" ref="index"/>
+    <file name="sun.svg" crc="517046787" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sun_poster_.png" crc="162953087" ref="index"/>
+    <file name="humidity.svg" crc="354702744" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="humidity_poster_.png" crc="298497813" ref="index"/>
+    <file name="ab.jpg" crc="3962759603" ref="index:widgets:settings">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="settings" alt=""/>
+      <caption webpage="settings" alt=""/>
+      <caption webpage="settings" alt=""/>
+      <caption webpage="widgets" alt=""/>
+      <caption webpage="widgets" alt=""/>
+      <caption webpage="widgets" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:widgets:settings"/>
+  </folder>
+  <file name="index.html" crc="3877173560" seo="true" mt="1543386877331" redirect="true"/>
+  <file name="widgets.html" crc="3947629330" seo="true" mt="1543386873436" redirect="true"/>
+  <file name="settings.html" crc="513534728" seo="true" mt="1543386820512" redirect="true"/>
+</manifest>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://project_IoT.com/index.html</loc>
+    <lastmod>2018-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://project_IoT.com/images/thermometer.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://project_IoT.com/images/sun.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://project_IoT.com/images/humidity.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://project_IoT.com/widgets.html</loc>
+    <lastmod>2018-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://project_IoT.com/settings.html</loc>
+    <lastmod>2018-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
